@@ -1,0 +1,26 @@
+.eachli {
+  border: none;
+  width: 90%;
+  padding: 1rem;
+  margin: 0.5rem;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.5rem;
+  background-color: rgb(226, 226, 246);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.remove {
+  color: red;
+  font-size: 2rem;
+  text-align: center;
+  border: none;
+  width: 15%;
+  padding: 0.5rem;
+  background-color: brown;
+  border-radius: 8px;
+  /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
+}
+.completed {
+  text-decoration: line-through;
+}

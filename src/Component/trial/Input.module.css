@@ -1,0 +1,13 @@
+ul {
+  max-width: 50%;
+  /* border: 1px solid red; */
+  margin: auto;
+}
+
+li {
+  list-style: none;
+}
+#btn {
+  background-color: rgb(167, 145, 187);
+  border: 3px solid blanchedalmond;
+}
